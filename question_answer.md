@@ -11,10 +11,10 @@ end
 > #変数に代入  
 age = true 
   
->> #もし「age」の中身が「true」だったら  
+```#もし「age」の中身が「true」だったら  
 if true # trueという値そのもの  
 　puts "あなたは未成年です(2)" # 処理が実行される  
-end  
+end```  
   
 > #変数に代入  
 age = false  
